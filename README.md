@@ -1,0 +1,2 @@
+# SalesOneN
+A startup-competition
